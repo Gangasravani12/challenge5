@@ -3,7 +3,7 @@ body{
 }
 .box{
     width: 1200px;
-    height: 670px;
+    height: 100%;
     background-color: hsl(244, 38%, 16%);
     margin: 0 auto;
 }
